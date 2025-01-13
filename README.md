@@ -32,9 +32,8 @@ Hello! I'm Adeyinka Adebayo, a passionate and results-driven Data Scientist with
 
 ### 3️⃣ Recommendation Systems
 **Description**: Developed Knowledge/Rank Based recommendation system, Similarity-Based Collaborative filtering and Matrix Factorization Based Collaborative Filtering  
-**Tech Stack**: PyTorch, NumPy, OpenAI Gym
-
-[View Project](https://colab.research.google.com/gist/AdeGit/60e8fe15d3dd2a6b3e94fcab87f3887c/recommendation_systems_practice_project_solution_notebook.ipynb)
+**Tech Stack**: PyTorch, NumPy, OpenAI Gym 
+[🔗 View Project](#https://colab.research.google.com/gist/AdeGit/60e8fe15d3dd2a6b3e94fcab87f3887c/recommendation_systems_practice_project_solution_notebook.ipynb)
 
 ## 🌍 Let's Connect
 
